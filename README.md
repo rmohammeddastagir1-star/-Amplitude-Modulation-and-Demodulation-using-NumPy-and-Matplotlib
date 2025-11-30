@@ -82,6 +82,9 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 `````
+ __Tabulation__:
+ ![WhatsApp Image 2025-11-30 at 10 30 07_c24c3d04](https://github.com/user-attachments/assets/912d245f-632e-476d-bd5f-3eb76b1ce422)
+
  __Output__:
 ![WhatsApp Image 2025-11-30 at 10 17 39_a4705aac](https://github.com/user-attachments/assets/4ec074b1-a4f7-4284-9e0c-6b3f6cc3ac3f)
 
